@@ -2,4 +2,5 @@ gitの勉強します
 頑張ります
 git add
 git commit
+git rm
 
